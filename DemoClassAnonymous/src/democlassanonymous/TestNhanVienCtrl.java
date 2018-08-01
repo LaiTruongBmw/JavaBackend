@@ -9,15 +9,12 @@ package democlassanonymous;
  *
  * @author LaiTruong
  */
-public class DemoClassAnonymous {
-
-    /**
-     * @param args the command line arguments
-     */
+public class TestNhanVienCtrl {
     public static void main(String[] args) {
-        // TODO code application logic here
-        
-//        INhanVien 
+            INhanVienCtrl nhanVienCtrl = new NhanVienCtrl();
+            INhanVien[] dsnv = nhanVienCtrl.taoDanhSach();
+            System.out.println("******************************");
+            nhanVienCtrl.hienDanhSach(dsnv);
     }
     
 }
