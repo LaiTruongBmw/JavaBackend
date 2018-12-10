@@ -1,0 +1,1176 @@
+02-Dec-2018 10:46:29.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.32
+02-Dec-2018 10:46:29.638 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 20 2018 19:50:35 UTC
+02-Dec-2018 10:46:29.638 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.32.0
+02-Dec-2018 10:46:29.638 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Dec-2018 10:46:29.638 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Dec-2018 10:46:29.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Dec-2018 10:46:29.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\java\jdk8\jre
+02-Dec-2018 10:46:29.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_171-b11
+02-Dec-2018 10:46:29.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+02-Dec-2018 10:46:29.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+02-Dec-2018 10:46:29.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+02-Dec-2018 10:46:29.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\logging.properties
+02-Dec-2018 10:46:29.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Dec-2018 10:46:29.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-NB68DM0
+02-Dec-2018 10:46:29.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Dec-2018 10:46:29.642 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Dec-2018 10:46:29.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Dec-2018 10:46:29.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+02-Dec-2018 10:46:29.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+02-Dec-2018 10:46:29.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\temp
+02-Dec-2018 10:46:29.648 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\java\jdk8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\app\LaiTruong\product\11.2.0\dbhome_1\bin;C:\app\LaiTruong\virtual\product\12.2.0\dbhome_1\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\xampp\php;C:\composer;C:\WINDOWS\System32\OpenSSH\;%JAVA_HOME%\bin;C:\Program Files\nodejs\;C:\Program Files\Microsoft VS Code\bin;C:\oracle\instantclient_11_1\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Users\LaiTruong\AppData\Local\Microsoft\WindowsApps;C:\Users\LaiTruong\AppData\Local\GitHubDesktop\bin;C:\Users\LaiTruong\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Heroku\bin;C:\Users\LaiTruong\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\LaiTruong\AppData\Roaming\npm;.]
+02-Dec-2018 10:46:29.953 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+02-Dec-2018 10:46:30.379 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+02-Dec-2018 10:46:30.400 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+02-Dec-2018 10:46:30.404 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+02-Dec-2018 10:46:30.404 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1609 ms
+02-Dec-2018 10:46:30.506 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Dec-2018 10:46:30.506 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.32
+02-Dec-2018 10:46:30.535 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\PS05110_TEST.xml]
+02-Dec-2018 10:46:30.678 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/PS05110_TEST]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@31d32c26]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4907)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5042)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\LaiTruong\Downloads\WebApplication2\WebApplication2\build\web] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 more
+
+02-Dec-2018 10:46:30.678 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\PS05110_TEST.xml]
+ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/PS05110_TEST]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+02-Dec-2018 10:46:30.684 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\PS05110_TEST.xml] has finished in [143] ms
+02-Dec-2018 10:46:30.684 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\Strust_hibernate_crud_test.xml]
+02-Dec-2018 10:46:35.063 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Dec-2018 10:46:38.877 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\Strust_hibernate_crud_test.xml] has finished in [8,193] ms
+02-Dec-2018 10:46:38.881 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml]
+02-Dec-2018 10:46:42.834 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Dec-2018 10:46:43.343 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+02-Dec-2018 10:46:43.688 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Unable to locate configuration files of the name struts-plugin.xml, skipping
+02-Dec-2018 10:46:43.688 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+02-Dec-2018 10:46:43.793 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+02-Dec-2018 10:46:43.799 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.ObjectFactory
+02-Dec-2018 10:46:43.799 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.conversion.impl.XWorkConverter
+02-Dec-2018 10:46:43.801 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.TextProvider
+02-Dec-2018 10:46:43.801 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.ActionProxyFactory
+02-Dec-2018 10:46:43.801 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.conversion.ObjectTypeDeterminer
+02-Dec-2018 10:46:43.801 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.mapper.ActionMapper
+02-Dec-2018 10:46:43.801 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (jakarta) for interface org.apache.struts2.dispatcher.multipart.MultiPartRequest
+02-Dec-2018 10:46:43.801 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class org.apache.struts2.views.freemarker.FreemarkerManager
+02-Dec-2018 10:46:43.801 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.components.UrlRenderer
+02-Dec-2018 10:46:43.801 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.validator.ActionValidatorManager
+02-Dec-2018 10:46:43.801 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.ValueStackFactory
+02-Dec-2018 10:46:43.804 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionProvider
+02-Dec-2018 10:46:43.804 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionContextFactory
+02-Dec-2018 10:46:43.804 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.PatternMatcher
+02-Dec-2018 10:46:43.804 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.StaticContentLoader
+02-Dec-2018 10:46:43.804 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.UnknownHandlerManager
+02-Dec-2018 10:46:43.804 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.i18n.reload - old value: false new value: true
+02-Dec-2018 10:46:43.804 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.configuration.xml.reload - old value: false new value: true
+02-Dec-2018 10:46:44.280 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml] has finished in [5,399] ms
+02-Dec-2018 10:46:44.280 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\docs]
+02-Dec-2018 10:46:44.321 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\docs] has finished in [41] ms
+02-Dec-2018 10:46:44.321 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\examples]
+02-Dec-2018 10:46:45.926 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\examples] has finished in [1,605] ms
+02-Dec-2018 10:46:45.926 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\host-manager]
+02-Dec-2018 10:46:46.024 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\host-manager] has finished in [98] ms
+02-Dec-2018 10:46:46.024 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\manager]
+02-Dec-2018 10:46:46.119 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\manager] has finished in [95] ms
+02-Dec-2018 10:46:46.119 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\ROOT]
+02-Dec-2018 10:46:46.196 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\ROOT] has finished in [77] ms
+02-Dec-2018 10:46:46.206 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+02-Dec-2018 10:46:46.220 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+02-Dec-2018 10:46:46.227 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 15820 ms
+02-Dec-2018 10:47:47.595 INFO [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/Strust_hibernate_crud_test]
+02-Dec-2018 12:39:45.588 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\spring-mvc.xml]
+02-Dec-2018 12:39:45.620 WARNING [http-nio-8080-exec-15] org.apache.catalina.startup.SetContextPropertiesRule.begin [SetContextPropertiesRule]{Context} Setting property 'antiJARLocking' to 'true' did not find a matching property.
+02-Dec-2018 12:39:48.812 INFO [http-nio-8080-exec-15] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Dec-2018 12:39:49.307 INFO [http-nio-8080-exec-15] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringMVC': initialization started
+02-Dec-2018 12:39:49.380 INFO [http-nio-8080-exec-15] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Sun Dec 02 12:39:49 ICT 2018]; root of context hierarchy
+02-Dec-2018 12:39:49.510 INFO [http-nio-8080-exec-15] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]
+02-Dec-2018 12:39:50.788 SEVERE [http-nio-8080-exec-15] org.springframework.web.servlet.FrameworkServlet.initServletBean Context initialization failed
+ org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'homeController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private core.service.dao.ProductDAO core.service.controller.HomeController.productDAO; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'productDAO': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:292)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1185)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:658)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:543)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:484)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:136)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:983)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4978)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5290)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:501)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1650)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.tomcat.util.modeler.BaseModelMBean.invoke(BaseModelMBean.java:300)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.invoke(DefaultMBeanServerInterceptor.java:819)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.invoke(JmxMBeanServer.java:801)
+	at org.apache.catalina.manager.ManagerServlet.check(ManagerServlet.java:1525)
+	at org.apache.catalina.manager.ManagerServlet.deploy(ManagerServlet.java:946)
+	at org.apache.catalina.manager.ManagerServlet.doGet(ManagerServlet.java:347)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:610)
+	at org.apache.catalina.valves.RequestFilterValve.process(RequestFilterValve.java:348)
+	at org.apache.catalina.valves.RemoteAddrValve.invoke(RemoteAddrValve.java:52)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private core.service.dao.ProductDAO core.service.controller.HomeController.productDAO; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'productDAO': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:289)
+	... 68 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'productDAO': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:292)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1185)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:957)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:855)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:480)
+	... 70 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:289)
+	... 81 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:107)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1456)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1197)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:957)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:855)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:480)
+	... 83 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1493)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1197)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:320)
+	... 96 more
+Caused by: org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.AbstractPropertyAccessor.setPropertyValues(AbstractPropertyAccessor.java:108)
+	at org.springframework.beans.AbstractPropertyAccessor.setPropertyValues(AbstractPropertyAccessor.java:62)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1489)
+	... 104 more
+
+02-Dec-2018 12:39:51.441 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\spring-mvc.xml] has finished in [5,854] ms
+02-Dec-2018 12:39:51.456 INFO [http-nio-8080-exec-12] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/spring-mvc]] after start() had already been called. The second call will be ignored.
+02-Dec-2018 12:39:53.715 INFO [http-nio-8080-exec-14] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringMVC': initialization started
+02-Dec-2018 12:39:53.716 INFO [http-nio-8080-exec-14] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Sun Dec 02 12:39:53 ICT 2018]; root of context hierarchy
+02-Dec-2018 12:39:53.718 INFO [http-nio-8080-exec-14] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]
+02-Dec-2018 12:39:53.848 SEVERE [http-nio-8080-exec-14] org.springframework.web.servlet.FrameworkServlet.initServletBean Context initialization failed
+ org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'homeController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private core.service.dao.ProductDAO core.service.controller.HomeController.productDAO; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'productDAO': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:292)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1185)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:658)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:543)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:484)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:136)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+	at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:773)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:704)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:470)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:395)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:316)
+	at org.apache.jasper.runtime.PageContextImpl.doForward(PageContextImpl.java:742)
+	at org.apache.jasper.runtime.PageContextImpl.forward(PageContextImpl.java:712)
+	at org.apache.jsp.index_jsp._jspService(index_jsp.java:110)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:443)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:386)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:330)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private core.service.dao.ProductDAO core.service.controller.HomeController.productDAO; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'productDAO': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:289)
+	... 55 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'productDAO': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:292)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1185)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:957)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:855)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:480)
+	... 57 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:289)
+	... 68 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:107)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1456)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1197)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:957)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:855)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:480)
+	... 70 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1493)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1197)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:320)
+	... 83 more
+Caused by: org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.AbstractPropertyAccessor.setPropertyValues(AbstractPropertyAccessor.java:108)
+	at org.springframework.beans.AbstractPropertyAccessor.setPropertyValues(AbstractPropertyAccessor.java:62)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1489)
+	... 91 more
+
+02-Dec-2018 13:10:08.953 INFO [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/struts_hibernate_crud]
+02-Dec-2018 13:10:08.998 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml]
+02-Dec-2018 13:10:11.359 INFO [http-nio-8080-exec-17] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Dec-2018 13:10:11.604 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+02-Dec-2018 13:10:11.809 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Unable to locate configuration files of the name struts-plugin.xml, skipping
+02-Dec-2018 13:10:11.809 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+02-Dec-2018 13:10:11.852 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+02-Dec-2018 13:10:11.858 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.ObjectFactory
+02-Dec-2018 13:10:11.859 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.conversion.impl.XWorkConverter
+02-Dec-2018 13:10:11.859 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.TextProvider
+02-Dec-2018 13:10:11.859 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.ActionProxyFactory
+02-Dec-2018 13:10:11.859 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.conversion.ObjectTypeDeterminer
+02-Dec-2018 13:10:11.859 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.mapper.ActionMapper
+02-Dec-2018 13:10:11.860 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (jakarta) for interface org.apache.struts2.dispatcher.multipart.MultiPartRequest
+02-Dec-2018 13:10:11.860 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class org.apache.struts2.views.freemarker.FreemarkerManager
+02-Dec-2018 13:10:11.861 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.components.UrlRenderer
+02-Dec-2018 13:10:11.862 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.validator.ActionValidatorManager
+02-Dec-2018 13:10:11.862 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.ValueStackFactory
+02-Dec-2018 13:10:11.862 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionProvider
+02-Dec-2018 13:10:11.862 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionContextFactory
+02-Dec-2018 13:10:11.863 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.PatternMatcher
+02-Dec-2018 13:10:11.863 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.StaticContentLoader
+02-Dec-2018 13:10:11.863 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.UnknownHandlerManager
+02-Dec-2018 13:10:11.863 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.i18n.reload - old value: false new value: true
+02-Dec-2018 13:10:11.864 INFO [http-nio-8080-exec-17] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.configuration.xml.reload - old value: false new value: true
+02-Dec-2018 13:10:12.340 INFO [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml] has finished in [3,342] ms
+02-Dec-2018 13:10:12.353 INFO [http-nio-8080-exec-18] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/struts_hibernate_crud]] after start() had already been called. The second call will be ignored.
+02-Dec-2018 13:10:15.778 INFO [http-nio-8080-exec-20] org.hibernate.annotations.common.Version.<clinit> HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+02-Dec-2018 13:10:15.804 INFO [http-nio-8080-exec-20] org.hibernate.Version.logVersion HHH000412: Hibernate Core {4.2.5.Final}
+02-Dec-2018 13:10:15.812 INFO [http-nio-8080-exec-20] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+02-Dec-2018 13:10:15.818 INFO [http-nio-8080-exec-20] org.hibernate.cfg.Environment.buildBytecodeProvider HHH000021: Bytecode provider name : javassist
+02-Dec-2018 13:10:16.004 INFO [http-nio-8080-exec-20] org.hibernate.cfg.Configuration.configure HHH000043: Configuring from resource: /hibernate.cfg.xml
+02-Dec-2018 13:10:16.004 INFO [http-nio-8080-exec-20] org.hibernate.cfg.Configuration.getConfigurationInputStream HHH000040: Configuration resource: /hibernate.cfg.xml
+02-Dec-2018 13:10:16.105 WARN [http-nio-8080-exec-20] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+02-Dec-2018 13:10:16.155 INFO [http-nio-8080-exec-20] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: entity/Product.hbm.xml
+02-Dec-2018 13:10:16.215 INFO [http-nio-8080-exec-20] org.hibernate.cfg.Configuration.doConfigure HHH000041: Configured SessionFactory: null
+02-Dec-2018 13:10:16.375 INFO [http-nio-8080-exec-20] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000402: Using Hibernate built-in connection pool (not for production use!)
+02-Dec-2018 13:10:16.418 INFO [http-nio-8080-exec-20] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000115: Hibernate connection pool size: 20
+02-Dec-2018 13:10:16.419 INFO [http-nio-8080-exec-20] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000006: Autocommit mode: false
+02-Dec-2018 13:10:16.420 INFO [http-nio-8080-exec-20] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000401: using driver [com.microsoft.sqlserver.jdbc.SQLServerDriver] at URL [jdbc:sqlserver://localhost:1433;databaseName=pf_crud]
+02-Dec-2018 13:10:16.421 INFO [http-nio-8080-exec-20] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000046: Connection properties: {user=sa, password=****}
+02-Dec-2018 13:10:17.499 INFO [http-nio-8080-exec-20] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.SQLServerDialect
+02-Dec-2018 13:10:17.759 INFO [http-nio-8080-exec-20] org.hibernate.engine.transaction.internal.TransactionFactoryInitiator.initiateService HHH000399: Using default transaction strategy (direct JDBC transactions)
+02-Dec-2018 13:10:17.784 INFO [http-nio-8080-exec-20] org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory.<init> HHH000397: Using ASTQueryTranslatorFactory
+02-Dec-2018 13:10:18.090 ERROR [http-nio-8080-exec-20] org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory HHH000142: Javassist Enhancement failed: entity.Product
+ java.lang.NoSuchMethodError: javassist.bytecode.Bytecode.addPutfield(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+	at javassist.util.proxy.ProxyFactory.makeConstructor(ProxyFactory.java:1079)
+	at javassist.util.proxy.ProxyFactory.makeConstructors(ProxyFactory.java:956)
+	at javassist.util.proxy.ProxyFactory.make(ProxyFactory.java:714)
+	at javassist.util.proxy.ProxyFactory.createClass3(ProxyFactory.java:498)
+	at javassist.util.proxy.ProxyFactory.createClass2(ProxyFactory.java:487)
+	at javassist.util.proxy.ProxyFactory.createClass1(ProxyFactory.java:423)
+	at javassist.util.proxy.ProxyFactory.createClass(ProxyFactory.java:395)
+	at org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory(JavassistLazyInitializer.java:163)
+	at org.hibernate.proxy.pojo.javassist.JavassistProxyFactory.postInstantiate(JavassistProxyFactory.java:66)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.buildProxyFactory(PojoEntityTuplizer.java:229)
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.<init>(AbstractEntityTuplizer.java:212)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.<init>(PojoEntityTuplizer.java:82)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructTuplizer(EntityTuplizerFactory.java:135)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructDefaultTuplizer(EntityTuplizerFactory.java:188)
+	at org.hibernate.tuple.entity.EntityMetamodel.<init>(EntityMetamodel.java:341)
+	at org.hibernate.persister.entity.AbstractEntityPersister.<init>(AbstractEntityPersister.java:507)
+	at org.hibernate.persister.entity.SingleTableEntityPersister.<init>(SingleTableEntityPersister.java:146)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.create(PersisterFactoryImpl.java:163)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.createEntityPersister(PersisterFactoryImpl.java:135)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:385)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1790)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1861)
+	at util.HibernateUtil.<clinit>(HibernateUtil.java:25)
+	at dao.ProductDAO.getAllProduct(ProductDAO.java:22)
+	at controller.ProductController.execute(ProductController.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:510)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+02-Dec-2018 13:10:18.102 WARN [http-nio-8080-exec-20] org.hibernate.tuple.entity.PojoEntityTuplizer.buildProxyFactory HHH000305: Could not create proxy factory for:entity.Product
+ org.hibernate.HibernateException: HHH000142: Javassist Enhancement failed: entity.Product
+	at org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory(JavassistLazyInitializer.java:167)
+	at org.hibernate.proxy.pojo.javassist.JavassistProxyFactory.postInstantiate(JavassistProxyFactory.java:66)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.buildProxyFactory(PojoEntityTuplizer.java:229)
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.<init>(AbstractEntityTuplizer.java:212)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.<init>(PojoEntityTuplizer.java:82)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructTuplizer(EntityTuplizerFactory.java:135)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructDefaultTuplizer(EntityTuplizerFactory.java:188)
+	at org.hibernate.tuple.entity.EntityMetamodel.<init>(EntityMetamodel.java:341)
+	at org.hibernate.persister.entity.AbstractEntityPersister.<init>(AbstractEntityPersister.java:507)
+	at org.hibernate.persister.entity.SingleTableEntityPersister.<init>(SingleTableEntityPersister.java:146)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.create(PersisterFactoryImpl.java:163)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.createEntityPersister(PersisterFactoryImpl.java:135)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:385)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1790)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1861)
+	at util.HibernateUtil.<clinit>(HibernateUtil.java:25)
+	at dao.ProductDAO.getAllProduct(ProductDAO.java:22)
+	at controller.ProductController.execute(ProductController.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:510)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodError: javassist.bytecode.Bytecode.addPutfield(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+	at javassist.util.proxy.ProxyFactory.makeConstructor(ProxyFactory.java:1079)
+	at javassist.util.proxy.ProxyFactory.makeConstructors(ProxyFactory.java:956)
+	at javassist.util.proxy.ProxyFactory.make(ProxyFactory.java:714)
+	at javassist.util.proxy.ProxyFactory.createClass3(ProxyFactory.java:498)
+	at javassist.util.proxy.ProxyFactory.createClass2(ProxyFactory.java:487)
+	at javassist.util.proxy.ProxyFactory.createClass1(ProxyFactory.java:423)
+	at javassist.util.proxy.ProxyFactory.createClass(ProxyFactory.java:395)
+	at org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory(JavassistLazyInitializer.java:163)
+	... 97 more
+
+02-Dec-2018 13:56:14.028 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+02-Dec-2018 13:56:14.034 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+02-Dec-2018 13:56:14.310 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+02-Dec-2018 13:56:14.550 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Dec-2018 13:56:15.527 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [struts_hibernate_crud] registered the JDBC driver [com.microsoft.sqlserver.jdbc.SQLServerDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+02-Dec-2018 13:56:15.664 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+02-Dec-2018 13:56:15.669 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+02-Dec-2018 13:56:15.672 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+02-Dec-2018 13:56:15.674 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+02-Dec-2018 22:21:12.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.32
+02-Dec-2018 22:21:12.231 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 20 2018 19:50:35 UTC
+02-Dec-2018 22:21:12.232 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.32.0
+02-Dec-2018 22:21:12.232 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+02-Dec-2018 22:21:12.232 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Dec-2018 22:21:12.232 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Dec-2018 22:21:12.232 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\java\jdk8\jre
+02-Dec-2018 22:21:12.232 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_171-b11
+02-Dec-2018 22:21:12.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+02-Dec-2018 22:21:12.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+02-Dec-2018 22:21:12.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+02-Dec-2018 22:21:12.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\logging.properties
+02-Dec-2018 22:21:12.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Dec-2018 22:21:12.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-NB68DM0
+02-Dec-2018 22:21:12.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Dec-2018 22:21:12.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Dec-2018 22:21:12.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Dec-2018 22:21:12.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+02-Dec-2018 22:21:12.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+02-Dec-2018 22:21:12.234 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\temp
+02-Dec-2018 22:21:12.235 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\java\jdk8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\app\LaiTruong\product\11.2.0\dbhome_1\bin;C:\app\LaiTruong\virtual\product\12.2.0\dbhome_1\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\xampp\php;C:\composer;C:\WINDOWS\System32\OpenSSH\;%JAVA_HOME%\bin;C:\Program Files\nodejs\;C:\Program Files\Microsoft VS Code\bin;C:\oracle\instantclient_11_1\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Users\LaiTruong\AppData\Local\Microsoft\WindowsApps;C:\Users\LaiTruong\AppData\Local\GitHubDesktop\bin;C:\Users\LaiTruong\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Heroku\bin;C:\Users\LaiTruong\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\LaiTruong\AppData\Roaming\npm;.]
+02-Dec-2018 22:21:12.564 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+02-Dec-2018 22:21:12.926 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+02-Dec-2018 22:21:12.935 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+02-Dec-2018 22:21:12.938 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+02-Dec-2018 22:21:12.939 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1256 ms
+02-Dec-2018 22:21:13.033 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Dec-2018 22:21:13.033 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.32
+02-Dec-2018 22:21:13.064 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\PS05110_TEST.xml]
+02-Dec-2018 22:21:13.174 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/PS05110_TEST]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@706372fb]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4907)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5042)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\LaiTruong\Downloads\WebApplication2\WebApplication2\build\web] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 more
+
+02-Dec-2018 22:21:13.176 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\PS05110_TEST.xml]
+ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/PS05110_TEST]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+02-Dec-2018 22:21:13.183 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\PS05110_TEST.xml] has finished in [118] ms
+02-Dec-2018 22:21:13.183 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\spring-mvc.xml]
+02-Dec-2018 22:21:13.287 WARNING [localhost-startStop-1] org.apache.catalina.startup.SetContextPropertiesRule.begin [SetContextPropertiesRule]{Context} Setting property 'antiJARLocking' to 'true' did not find a matching property.
+02-Dec-2018 22:21:16.815 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Dec-2018 22:21:17.309 INFO [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean FrameworkServlet 'SpringMVC': initialization started
+02-Dec-2018 22:21:17.424 INFO [localhost-startStop-1] org.springframework.context.support.AbstractApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Sun Dec 02 22:21:17 ICT 2018]; root of context hierarchy
+02-Dec-2018 22:21:17.600 INFO [localhost-startStop-1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]
+02-Dec-2018 22:21:18.899 SEVERE [localhost-startStop-1] org.springframework.web.servlet.FrameworkServlet.initServletBean Context initialization failed
+ org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'homeController': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private core.service.dao.ProductDAO core.service.controller.HomeController.productDAO; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'productDAO': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:292)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1185)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:700)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:760)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:482)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:658)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:543)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:484)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:136)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:158)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1144)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1091)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:983)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4978)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5290)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private core.service.dao.ProductDAO core.service.controller.HomeController.productDAO; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'productDAO': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:289)
+	... 33 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'productDAO': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:292)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1185)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:957)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:855)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:480)
+	... 35 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.springframework.jdbc.core.JdbcTemplate core.service.dao.ProductDAOImpl.template; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:87)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:289)
+	... 46 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'template' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Cannot resolve reference to bean 'dataSource' while setting bean property 'dataSource'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:107)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1456)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1197)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1014)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:957)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:855)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:480)
+	... 48 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in ServletContext resource [/WEB-INF/SpringMVC-servlet.xml]: Error setting property values; nested exception is org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1493)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1197)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:475)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:304)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:300)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:195)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:320)
+	... 61 more
+Caused by: org.springframework.beans.PropertyBatchUpdateException; nested PropertyAccessExceptions (1) are:
+PropertyAccessException 1: org.springframework.beans.MethodInvocationException: Property 'driverClassName' threw exception; nested exception is java.lang.IllegalStateException: Could not load JDBC driver class [com.mysql.jdbc.Driver]
+	at org.springframework.beans.AbstractPropertyAccessor.setPropertyValues(AbstractPropertyAccessor.java:108)
+	at org.springframework.beans.AbstractPropertyAccessor.setPropertyValues(AbstractPropertyAccessor.java:62)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1489)
+	... 69 more
+
+02-Dec-2018 22:21:19.135 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\spring-mvc.xml] has finished in [5,952] ms
+02-Dec-2018 22:21:19.135 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml]
+02-Dec-2018 22:21:21.360 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Dec-2018 22:21:21.674 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+02-Dec-2018 22:21:21.892 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Unable to locate configuration files of the name struts-plugin.xml, skipping
+02-Dec-2018 22:21:21.892 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+02-Dec-2018 22:21:21.950 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+02-Dec-2018 22:21:21.954 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.ObjectFactory
+02-Dec-2018 22:21:21.954 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.conversion.impl.XWorkConverter
+02-Dec-2018 22:21:21.954 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.TextProvider
+02-Dec-2018 22:21:21.954 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.ActionProxyFactory
+02-Dec-2018 22:21:21.955 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.conversion.ObjectTypeDeterminer
+02-Dec-2018 22:21:21.955 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.mapper.ActionMapper
+02-Dec-2018 22:21:21.955 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (jakarta) for interface org.apache.struts2.dispatcher.multipart.MultiPartRequest
+02-Dec-2018 22:21:21.955 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class org.apache.struts2.views.freemarker.FreemarkerManager
+02-Dec-2018 22:21:21.959 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.components.UrlRenderer
+02-Dec-2018 22:21:21.960 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.validator.ActionValidatorManager
+02-Dec-2018 22:21:21.960 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.ValueStackFactory
+02-Dec-2018 22:21:21.960 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionProvider
+02-Dec-2018 22:21:21.960 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionContextFactory
+02-Dec-2018 22:21:21.961 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.PatternMatcher
+02-Dec-2018 22:21:21.961 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.StaticContentLoader
+02-Dec-2018 22:21:21.961 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.UnknownHandlerManager
+02-Dec-2018 22:21:21.962 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.i18n.reload - old value: false new value: true
+02-Dec-2018 22:21:21.962 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.configuration.xml.reload - old value: false new value: true
+02-Dec-2018 22:21:22.430 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml] has finished in [3,295] ms
+02-Dec-2018 22:21:22.433 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\docs]
+02-Dec-2018 22:21:22.477 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\docs] has finished in [44] ms
+02-Dec-2018 22:21:22.477 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\examples]
+02-Dec-2018 22:21:24.003 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\examples] has finished in [1,526] ms
+02-Dec-2018 22:21:24.003 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\host-manager]
+02-Dec-2018 22:21:24.089 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\host-manager] has finished in [86] ms
+02-Dec-2018 22:21:24.089 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\manager]
+02-Dec-2018 22:21:24.145 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\manager] has finished in [56] ms
+02-Dec-2018 22:21:24.145 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\ROOT]
+02-Dec-2018 22:21:24.203 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\ROOT] has finished in [57] ms
+02-Dec-2018 22:21:24.210 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+02-Dec-2018 22:21:24.223 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+02-Dec-2018 22:21:24.226 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 11286 ms
+02-Dec-2018 22:21:33.656 INFO [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/struts_hibernate_crud]
+02-Dec-2018 22:21:33.706 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml]
+02-Dec-2018 22:21:38.760 INFO [http-nio-8080-exec-3] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Dec-2018 22:21:39.154 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+02-Dec-2018 22:21:39.602 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Unable to locate configuration files of the name struts-plugin.xml, skipping
+02-Dec-2018 22:21:39.602 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+02-Dec-2018 22:21:39.618 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+02-Dec-2018 22:21:39.627 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.ObjectFactory
+02-Dec-2018 22:21:39.627 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.conversion.impl.XWorkConverter
+02-Dec-2018 22:21:39.627 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.TextProvider
+02-Dec-2018 22:21:39.627 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.ActionProxyFactory
+02-Dec-2018 22:21:39.627 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.conversion.ObjectTypeDeterminer
+02-Dec-2018 22:21:39.628 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.mapper.ActionMapper
+02-Dec-2018 22:21:39.628 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (jakarta) for interface org.apache.struts2.dispatcher.multipart.MultiPartRequest
+02-Dec-2018 22:21:39.628 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class org.apache.struts2.views.freemarker.FreemarkerManager
+02-Dec-2018 22:21:39.630 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.components.UrlRenderer
+02-Dec-2018 22:21:39.630 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.validator.ActionValidatorManager
+02-Dec-2018 22:21:39.630 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.ValueStackFactory
+02-Dec-2018 22:21:39.630 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionProvider
+02-Dec-2018 22:21:39.631 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionContextFactory
+02-Dec-2018 22:21:39.631 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.PatternMatcher
+02-Dec-2018 22:21:39.631 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.StaticContentLoader
+02-Dec-2018 22:21:39.631 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.UnknownHandlerManager
+02-Dec-2018 22:21:39.631 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.i18n.reload - old value: false new value: true
+02-Dec-2018 22:21:39.631 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.configuration.xml.reload - old value: false new value: true
+02-Dec-2018 22:21:40.574 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml] has finished in [6,868] ms
+02-Dec-2018 22:21:40.580 INFO [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/struts_hibernate_crud]] after start() had already been called. The second call will be ignored.
+02-Dec-2018 22:21:44.346 INFO [http-nio-8080-exec-2] org.hibernate.annotations.common.Version.<clinit> HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+02-Dec-2018 22:21:44.389 INFO [http-nio-8080-exec-2] org.hibernate.Version.logVersion HHH000412: Hibernate Core {4.2.5.Final}
+02-Dec-2018 22:21:44.402 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+02-Dec-2018 22:21:44.410 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Environment.buildBytecodeProvider HHH000021: Bytecode provider name : javassist
+02-Dec-2018 22:21:44.618 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Configuration.configure HHH000043: Configuring from resource: /hibernate.cfg.xml
+02-Dec-2018 22:21:44.618 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Configuration.getConfigurationInputStream HHH000040: Configuration resource: /hibernate.cfg.xml
+02-Dec-2018 22:21:44.811 WARN [http-nio-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+02-Dec-2018 22:21:44.938 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: entity/Product.hbm.xml
+02-Dec-2018 22:21:45.084 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Configuration.doConfigure HHH000041: Configured SessionFactory: null
+02-Dec-2018 22:21:45.509 INFO [http-nio-8080-exec-2] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000402: Using Hibernate built-in connection pool (not for production use!)
+02-Dec-2018 22:21:45.560 INFO [http-nio-8080-exec-2] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000115: Hibernate connection pool size: 20
+02-Dec-2018 22:21:45.560 INFO [http-nio-8080-exec-2] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000006: Autocommit mode: false
+02-Dec-2018 22:21:45.561 INFO [http-nio-8080-exec-2] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000401: using driver [com.microsoft.sqlserver.jdbc.SQLServerDriver] at URL [jdbc:sqlserver://localhost:1433;databaseName=pf_crud]
+02-Dec-2018 22:21:45.562 INFO [http-nio-8080-exec-2] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000046: Connection properties: {user=sa, password=****}
+02-Dec-2018 22:21:46.915 INFO [http-nio-8080-exec-2] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.SQLServerDialect
+02-Dec-2018 22:21:47.510 INFO [http-nio-8080-exec-2] org.hibernate.engine.transaction.internal.TransactionFactoryInitiator.initiateService HHH000399: Using default transaction strategy (direct JDBC transactions)
+02-Dec-2018 22:21:47.568 INFO [http-nio-8080-exec-2] org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory.<init> HHH000397: Using ASTQueryTranslatorFactory
+02-Dec-2018 22:21:48.453 ERROR [http-nio-8080-exec-2] org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory HHH000142: Javassist Enhancement failed: entity.Product
+ java.lang.NoSuchMethodError: javassist.bytecode.Bytecode.addPutfield(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+	at javassist.util.proxy.ProxyFactory.makeConstructor(ProxyFactory.java:1079)
+	at javassist.util.proxy.ProxyFactory.makeConstructors(ProxyFactory.java:956)
+	at javassist.util.proxy.ProxyFactory.make(ProxyFactory.java:714)
+	at javassist.util.proxy.ProxyFactory.createClass3(ProxyFactory.java:498)
+	at javassist.util.proxy.ProxyFactory.createClass2(ProxyFactory.java:487)
+	at javassist.util.proxy.ProxyFactory.createClass1(ProxyFactory.java:423)
+	at javassist.util.proxy.ProxyFactory.createClass(ProxyFactory.java:395)
+	at org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory(JavassistLazyInitializer.java:163)
+	at org.hibernate.proxy.pojo.javassist.JavassistProxyFactory.postInstantiate(JavassistProxyFactory.java:66)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.buildProxyFactory(PojoEntityTuplizer.java:229)
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.<init>(AbstractEntityTuplizer.java:212)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.<init>(PojoEntityTuplizer.java:82)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructTuplizer(EntityTuplizerFactory.java:135)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructDefaultTuplizer(EntityTuplizerFactory.java:188)
+	at org.hibernate.tuple.entity.EntityMetamodel.<init>(EntityMetamodel.java:341)
+	at org.hibernate.persister.entity.AbstractEntityPersister.<init>(AbstractEntityPersister.java:507)
+	at org.hibernate.persister.entity.SingleTableEntityPersister.<init>(SingleTableEntityPersister.java:146)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.create(PersisterFactoryImpl.java:163)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.createEntityPersister(PersisterFactoryImpl.java:135)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:385)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1790)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1861)
+	at util.HibernateUtil.<clinit>(HibernateUtil.java:25)
+	at dao.ProductDAO.getAllProduct(ProductDAO.java:22)
+	at controller.ProductController.execute(ProductController.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:510)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+02-Dec-2018 22:21:48.514 WARN [http-nio-8080-exec-2] org.hibernate.tuple.entity.PojoEntityTuplizer.buildProxyFactory HHH000305: Could not create proxy factory for:entity.Product
+ org.hibernate.HibernateException: HHH000142: Javassist Enhancement failed: entity.Product
+	at org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory(JavassistLazyInitializer.java:167)
+	at org.hibernate.proxy.pojo.javassist.JavassistProxyFactory.postInstantiate(JavassistProxyFactory.java:66)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.buildProxyFactory(PojoEntityTuplizer.java:229)
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.<init>(AbstractEntityTuplizer.java:212)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.<init>(PojoEntityTuplizer.java:82)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructTuplizer(EntityTuplizerFactory.java:135)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructDefaultTuplizer(EntityTuplizerFactory.java:188)
+	at org.hibernate.tuple.entity.EntityMetamodel.<init>(EntityMetamodel.java:341)
+	at org.hibernate.persister.entity.AbstractEntityPersister.<init>(AbstractEntityPersister.java:507)
+	at org.hibernate.persister.entity.SingleTableEntityPersister.<init>(SingleTableEntityPersister.java:146)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.create(PersisterFactoryImpl.java:163)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.createEntityPersister(PersisterFactoryImpl.java:135)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:385)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1790)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1861)
+	at util.HibernateUtil.<clinit>(HibernateUtil.java:25)
+	at dao.ProductDAO.getAllProduct(ProductDAO.java:22)
+	at controller.ProductController.execute(ProductController.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:510)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodError: javassist.bytecode.Bytecode.addPutfield(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+	at javassist.util.proxy.ProxyFactory.makeConstructor(ProxyFactory.java:1079)
+	at javassist.util.proxy.ProxyFactory.makeConstructors(ProxyFactory.java:956)
+	at javassist.util.proxy.ProxyFactory.make(ProxyFactory.java:714)
+	at javassist.util.proxy.ProxyFactory.createClass3(ProxyFactory.java:498)
+	at javassist.util.proxy.ProxyFactory.createClass2(ProxyFactory.java:487)
+	at javassist.util.proxy.ProxyFactory.createClass1(ProxyFactory.java:423)
+	at javassist.util.proxy.ProxyFactory.createClass(ProxyFactory.java:395)
+	at org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory(JavassistLazyInitializer.java:163)
+	... 97 more
+
+02-Dec-2018 22:31:25.066 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/struts_hibernate_crud]
+02-Dec-2018 22:31:25.086 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [struts_hibernate_crud] registered the JDBC driver [com.microsoft.sqlserver.jdbc.SQLServerDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+02-Dec-2018 22:31:25.099 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml]
+02-Dec-2018 22:31:25.104 SEVERE [localhost-startStop-2] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/struts_hibernate_crud]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@198ef158]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4907)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5042)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [E:\struts_hibernate_crud-master\build\web] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 more
+
+02-Dec-2018 22:31:25.105 SEVERE [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml]
+ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/struts_hibernate_crud]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+02-Dec-2018 22:31:25.196 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml] has finished in [97] ms
+02-Dec-2018 22:31:30.205 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+02-Dec-2018 22:31:30.206 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+02-Dec-2018 22:31:30.478 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+02-Dec-2018 22:31:30.743 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Dec-2018 22:31:30.849 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+02-Dec-2018 22:31:30.850 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+02-Dec-2018 22:31:30.854 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+02-Dec-2018 22:31:30.855 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

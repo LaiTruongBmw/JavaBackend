@@ -1,0 +1,372 @@
+27-Nov-2018 20:26:36.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.32
+27-Nov-2018 20:26:36.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 20 2018 19:50:35 UTC
+27-Nov-2018 20:26:36.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.32.0
+27-Nov-2018 20:26:36.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+27-Nov-2018 20:26:36.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Nov-2018 20:26:36.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Nov-2018 20:26:36.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\java\jdk8\jre
+27-Nov-2018 20:26:36.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_171-b11
+27-Nov-2018 20:26:36.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Nov-2018 20:26:36.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+27-Nov-2018 20:26:36.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+27-Nov-2018 20:26:36.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\logging.properties
+27-Nov-2018 20:26:36.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Nov-2018 20:26:36.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-NB68DM0
+27-Nov-2018 20:26:36.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Nov-2018 20:26:36.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Nov-2018 20:26:36.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Nov-2018 20:26:36.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+27-Nov-2018 20:26:36.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32
+27-Nov-2018 20:26:36.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\temp
+27-Nov-2018 20:26:36.929 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\java\jdk8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\app\LaiTruong\product\11.2.0\dbhome_1\bin;C:\app\LaiTruong\virtual\product\12.2.0\dbhome_1\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\xampp\php;C:\composer;C:\WINDOWS\System32\OpenSSH\;%JAVA_HOME%\bin;C:\Program Files\nodejs\;C:\Program Files\Microsoft VS Code\bin;C:\oracle\instantclient_11_1\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Users\LaiTruong\AppData\Local\Microsoft\WindowsApps;C:\Users\LaiTruong\AppData\Local\GitHubDesktop\bin;C:\Users\LaiTruong\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Heroku\bin;C:\Users\LaiTruong\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\LaiTruong\AppData\Roaming\npm;.]
+27-Nov-2018 20:26:37.306 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Nov-2018 20:26:37.736 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Nov-2018 20:26:37.757 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2018 20:26:37.761 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Nov-2018 20:26:37.765 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1719 ms
+27-Nov-2018 20:26:37.853 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Nov-2018 20:26:37.853 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.32
+27-Nov-2018 20:26:37.869 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\PS05110_TEST.xml]
+27-Nov-2018 20:26:38.043 SEVERE [localhost-startStop-1] org.apache.catalina.core.ContainerBase.addChildInternal ContainerBase.addChild: start: 
+ org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/PS05110_TEST]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:754)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@430d82a2]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4907)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5042)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 10 more
+Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\LaiTruong\Downloads\WebApplication2\WebApplication2\build\web] is not valid
+	at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:748)
+	at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:706)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 13 more
+
+27-Nov-2018 20:26:38.043 SEVERE [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\PS05110_TEST.xml]
+ java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/PS05110_TEST]]
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:758)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:730)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:734)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:629)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1839)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+27-Nov-2018 20:26:38.051 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\PS05110_TEST.xml] has finished in [178] ms
+27-Nov-2018 20:26:38.051 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\Strust_hibernate_crud_test.xml]
+27-Nov-2018 20:26:43.412 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2018 20:26:45.858 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\Strust_hibernate_crud_test.xml] has finished in [7,807] ms
+27-Nov-2018 20:26:45.858 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml]
+27-Nov-2018 20:26:50.543 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2018 20:26:50.951 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+27-Nov-2018 20:26:51.170 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Unable to locate configuration files of the name struts-plugin.xml, skipping
+27-Nov-2018 20:26:51.170 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+27-Nov-2018 20:26:51.242 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+27-Nov-2018 20:26:51.262 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.ObjectFactory
+27-Nov-2018 20:26:51.266 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.conversion.impl.XWorkConverter
+27-Nov-2018 20:26:51.266 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.TextProvider
+27-Nov-2018 20:26:51.270 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.ActionProxyFactory
+27-Nov-2018 20:26:51.270 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.conversion.ObjectTypeDeterminer
+27-Nov-2018 20:26:51.270 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.mapper.ActionMapper
+27-Nov-2018 20:26:51.270 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (jakarta) for interface org.apache.struts2.dispatcher.multipart.MultiPartRequest
+27-Nov-2018 20:26:51.270 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class org.apache.struts2.views.freemarker.FreemarkerManager
+27-Nov-2018 20:26:51.286 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.components.UrlRenderer
+27-Nov-2018 20:26:51.290 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.validator.ActionValidatorManager
+27-Nov-2018 20:26:51.290 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.ValueStackFactory
+27-Nov-2018 20:26:51.294 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionProvider
+27-Nov-2018 20:26:51.294 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionContextFactory
+27-Nov-2018 20:26:51.294 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.PatternMatcher
+27-Nov-2018 20:26:51.294 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.StaticContentLoader
+27-Nov-2018 20:26:51.294 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.UnknownHandlerManager
+27-Nov-2018 20:26:51.294 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.i18n.reload - old value: false new value: true
+27-Nov-2018 20:26:51.294 INFO [localhost-startStop-1] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.configuration.xml.reload - old value: false new value: true
+27-Nov-2018 20:26:51.810 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml] has finished in [5,952] ms
+27-Nov-2018 20:26:51.810 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\docs]
+27-Nov-2018 20:26:51.860 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\docs] has finished in [50] ms
+27-Nov-2018 20:26:51.860 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\examples]
+27-Nov-2018 20:26:53.785 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\examples] has finished in [1,925] ms
+27-Nov-2018 20:26:53.785 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\host-manager]
+27-Nov-2018 20:26:53.886 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\host-manager] has finished in [97] ms
+27-Nov-2018 20:26:53.886 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\manager]
+27-Nov-2018 20:26:53.988 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\manager] has finished in [102] ms
+27-Nov-2018 20:26:53.988 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\ROOT]
+27-Nov-2018 20:26:54.056 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\webapps\ROOT] has finished in [68] ms
+27-Nov-2018 20:26:54.072 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Nov-2018 20:26:54.122 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+27-Nov-2018 20:26:54.130 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 16364 ms
+27-Nov-2018 20:26:59.560 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/struts_hibernate_crud]
+27-Nov-2018 20:26:59.609 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml]
+27-Nov-2018 20:27:03.364 INFO [http-nio-8080-exec-3] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+27-Nov-2018 20:27:03.765 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-default.xml]
+27-Nov-2018 20:27:04.041 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Unable to locate configuration files of the name struts-plugin.xml, skipping
+27-Nov-2018 20:27:04.041 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts-plugin.xml]
+27-Nov-2018 20:27:04.047 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Parsing configuration file [struts.xml]
+27-Nov-2018 20:27:04.188 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.ObjectFactory
+27-Nov-2018 20:27:04.188 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class com.opensymphony.xwork2.conversion.impl.XWorkConverter
+27-Nov-2018 20:27:04.188 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.TextProvider
+27-Nov-2018 20:27:04.190 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.ActionProxyFactory
+27-Nov-2018 20:27:04.190 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.conversion.ObjectTypeDeterminer
+27-Nov-2018 20:27:04.190 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.mapper.ActionMapper
+27-Nov-2018 20:27:04.190 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (jakarta) for interface org.apache.struts2.dispatcher.multipart.MultiPartRequest
+27-Nov-2018 20:27:04.193 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for class org.apache.struts2.views.freemarker.FreemarkerManager
+27-Nov-2018 20:27:04.197 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.components.UrlRenderer
+27-Nov-2018 20:27:04.197 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.validator.ActionValidatorManager
+27-Nov-2018 20:27:04.197 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.ValueStackFactory
+27-Nov-2018 20:27:04.197 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionProvider
+27-Nov-2018 20:27:04.201 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.reflection.ReflectionContextFactory
+27-Nov-2018 20:27:04.201 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.util.PatternMatcher
+27-Nov-2018 20:27:04.201 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface org.apache.struts2.dispatcher.StaticContentLoader
+27-Nov-2018 20:27:04.201 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Choosing bean (struts) for interface com.opensymphony.xwork2.UnknownHandlerManager
+27-Nov-2018 20:27:04.201 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.i18n.reload - old value: false new value: true
+27-Nov-2018 20:27:04.201 INFO [http-nio-8080-exec-3] com.opensymphony.xwork2.util.logging.commons.CommonsLogger.info Overriding property struts.configuration.xml.reload - old value: false new value: true
+27-Nov-2018 20:27:04.928 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor [C:\Users\LaiTruong\Documents\JavaBackend\apache-tomcat-8.5.32\conf\Catalina\localhost\struts_hibernate_crud.xml] has finished in [5,319] ms
+27-Nov-2018 20:27:04.940 INFO [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/struts_hibernate_crud]] after start() had already been called. The second call will be ignored.
+27-Nov-2018 20:27:11.501 INFO [http-nio-8080-exec-2] org.hibernate.annotations.common.Version.<clinit> HCANN000001: Hibernate Commons Annotations {4.0.2.Final}
+27-Nov-2018 20:27:11.529 INFO [http-nio-8080-exec-2] org.hibernate.Version.logVersion HHH000412: Hibernate Core {4.2.5.Final}
+27-Nov-2018 20:27:11.537 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Environment.<clinit> HHH000206: hibernate.properties not found
+27-Nov-2018 20:27:11.541 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Environment.buildBytecodeProvider HHH000021: Bytecode provider name : javassist
+27-Nov-2018 20:27:11.732 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Configuration.configure HHH000043: Configuring from resource: /hibernate.cfg.xml
+27-Nov-2018 20:27:11.732 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Configuration.getConfigurationInputStream HHH000040: Configuration resource: /hibernate.cfg.xml
+27-Nov-2018 20:27:11.875 WARN [http-nio-8080-exec-2] org.hibernate.internal.util.xml.DTDEntityResolver.resolveEntity HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+27-Nov-2018 20:27:11.953 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Configuration.addResource HHH000221: Reading mappings from resource: entity/Product.hbm.xml
+27-Nov-2018 20:27:12.099 INFO [http-nio-8080-exec-2] org.hibernate.cfg.Configuration.doConfigure HHH000041: Configured SessionFactory: null
+27-Nov-2018 20:27:12.406 INFO [http-nio-8080-exec-2] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000402: Using Hibernate built-in connection pool (not for production use!)
+27-Nov-2018 20:27:12.444 INFO [http-nio-8080-exec-2] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000115: Hibernate connection pool size: 20
+27-Nov-2018 20:27:12.447 INFO [http-nio-8080-exec-2] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000006: Autocommit mode: false
+27-Nov-2018 20:27:12.448 INFO [http-nio-8080-exec-2] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000401: using driver [com.microsoft.sqlserver.jdbc.SQLServerDriver] at URL [jdbc:sqlserver://localhost:1433;databaseName=pf_crud]
+27-Nov-2018 20:27:12.448 INFO [http-nio-8080-exec-2] org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.configure HHH000046: Connection properties: {user=sa, password=****}
+27-Nov-2018 20:27:14.045 INFO [http-nio-8080-exec-2] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.SQLServerDialect
+27-Nov-2018 20:27:14.465 INFO [http-nio-8080-exec-2] org.hibernate.engine.transaction.internal.TransactionFactoryInitiator.initiateService HHH000399: Using default transaction strategy (direct JDBC transactions)
+27-Nov-2018 20:27:14.500 INFO [http-nio-8080-exec-2] org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory.<init> HHH000397: Using ASTQueryTranslatorFactory
+27-Nov-2018 20:27:14.927 ERROR [http-nio-8080-exec-2] org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory HHH000142: Javassist Enhancement failed: entity.Product
+ java.lang.NoSuchMethodError: javassist.bytecode.Bytecode.addPutfield(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+	at javassist.util.proxy.ProxyFactory.makeConstructor(ProxyFactory.java:1079)
+	at javassist.util.proxy.ProxyFactory.makeConstructors(ProxyFactory.java:956)
+	at javassist.util.proxy.ProxyFactory.make(ProxyFactory.java:714)
+	at javassist.util.proxy.ProxyFactory.createClass3(ProxyFactory.java:498)
+	at javassist.util.proxy.ProxyFactory.createClass2(ProxyFactory.java:487)
+	at javassist.util.proxy.ProxyFactory.createClass1(ProxyFactory.java:423)
+	at javassist.util.proxy.ProxyFactory.createClass(ProxyFactory.java:395)
+	at org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory(JavassistLazyInitializer.java:163)
+	at org.hibernate.proxy.pojo.javassist.JavassistProxyFactory.postInstantiate(JavassistProxyFactory.java:66)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.buildProxyFactory(PojoEntityTuplizer.java:229)
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.<init>(AbstractEntityTuplizer.java:212)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.<init>(PojoEntityTuplizer.java:82)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructTuplizer(EntityTuplizerFactory.java:135)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructDefaultTuplizer(EntityTuplizerFactory.java:188)
+	at org.hibernate.tuple.entity.EntityMetamodel.<init>(EntityMetamodel.java:341)
+	at org.hibernate.persister.entity.AbstractEntityPersister.<init>(AbstractEntityPersister.java:507)
+	at org.hibernate.persister.entity.SingleTableEntityPersister.<init>(SingleTableEntityPersister.java:146)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.create(PersisterFactoryImpl.java:163)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.createEntityPersister(PersisterFactoryImpl.java:135)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:385)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1790)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1861)
+	at util.HibernateUtil.<clinit>(HibernateUtil.java:25)
+	at dao.ProductDAO.getAllProduct(ProductDAO.java:22)
+	at controller.ProductController.execute(ProductController.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:510)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+27-Nov-2018 20:27:14.969 WARN [http-nio-8080-exec-2] org.hibernate.tuple.entity.PojoEntityTuplizer.buildProxyFactory HHH000305: Could not create proxy factory for:entity.Product
+ org.hibernate.HibernateException: HHH000142: Javassist Enhancement failed: entity.Product
+	at org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory(JavassistLazyInitializer.java:167)
+	at org.hibernate.proxy.pojo.javassist.JavassistProxyFactory.postInstantiate(JavassistProxyFactory.java:66)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.buildProxyFactory(PojoEntityTuplizer.java:229)
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.<init>(AbstractEntityTuplizer.java:212)
+	at org.hibernate.tuple.entity.PojoEntityTuplizer.<init>(PojoEntityTuplizer.java:82)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructTuplizer(EntityTuplizerFactory.java:135)
+	at org.hibernate.tuple.entity.EntityTuplizerFactory.constructDefaultTuplizer(EntityTuplizerFactory.java:188)
+	at org.hibernate.tuple.entity.EntityMetamodel.<init>(EntityMetamodel.java:341)
+	at org.hibernate.persister.entity.AbstractEntityPersister.<init>(AbstractEntityPersister.java:507)
+	at org.hibernate.persister.entity.SingleTableEntityPersister.<init>(SingleTableEntityPersister.java:146)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.create(PersisterFactoryImpl.java:163)
+	at org.hibernate.persister.internal.PersisterFactoryImpl.createEntityPersister(PersisterFactoryImpl.java:135)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:385)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1790)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:1861)
+	at util.HibernateUtil.<clinit>(HibernateUtil.java:25)
+	at dao.ProductDAO.getAllProduct(ProductDAO.java:22)
+	at controller.ProductController.execute(ProductController.java:71)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeAction(DefaultActionInvocation.java:453)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invokeActionOnly(DefaultActionInvocation.java:292)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:255)
+	at org.apache.struts2.interceptor.debugging.DebuggingInterceptor.intercept(DebuggingInterceptor.java:256)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.DefaultWorkflowInterceptor.doIntercept(DefaultWorkflowInterceptor.java:176)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.validator.ValidationInterceptor.doIntercept(ValidationInterceptor.java:265)
+	at org.apache.struts2.interceptor.validation.AnnotationValidationInterceptor.doIntercept(AnnotationValidationInterceptor.java:68)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ConversionErrorInterceptor.intercept(ConversionErrorInterceptor.java:138)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ParametersInterceptor.doIntercept(ParametersInterceptor.java:211)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.StaticParametersInterceptor.intercept(StaticParametersInterceptor.java:190)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.MultiselectInterceptor.intercept(MultiselectInterceptor.java:75)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.CheckboxInterceptor.intercept(CheckboxInterceptor.java:90)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.FileUploadInterceptor.intercept(FileUploadInterceptor.java:243)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ModelDrivenInterceptor.intercept(ModelDrivenInterceptor.java:100)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ScopedModelDrivenInterceptor.intercept(ScopedModelDrivenInterceptor.java:141)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ChainingInterceptor.intercept(ChainingInterceptor.java:145)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.PrepareInterceptor.doIntercept(PrepareInterceptor.java:171)
+	at com.opensymphony.xwork2.interceptor.MethodFilterInterceptor.intercept(MethodFilterInterceptor.java:98)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.I18nInterceptor.intercept(I18nInterceptor.java:176)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.interceptor.ServletConfigInterceptor.intercept(ServletConfigInterceptor.java:164)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.AliasInterceptor.intercept(AliasInterceptor.java:192)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at com.opensymphony.xwork2.interceptor.ExceptionMappingInterceptor.intercept(ExceptionMappingInterceptor.java:187)
+	at com.opensymphony.xwork2.DefaultActionInvocation.invoke(DefaultActionInvocation.java:249)
+	at org.apache.struts2.impl.StrutsActionProxy.execute(StrutsActionProxy.java:54)
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:510)
+	at org.apache.struts2.dispatcher.ng.ExecuteOperations.executeAction(ExecuteOperations.java:77)
+	at org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:91)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:493)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:650)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:800)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NoSuchMethodError: javassist.bytecode.Bytecode.addPutfield(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+	at javassist.util.proxy.ProxyFactory.makeConstructor(ProxyFactory.java:1079)
+	at javassist.util.proxy.ProxyFactory.makeConstructors(ProxyFactory.java:956)
+	at javassist.util.proxy.ProxyFactory.make(ProxyFactory.java:714)
+	at javassist.util.proxy.ProxyFactory.createClass3(ProxyFactory.java:498)
+	at javassist.util.proxy.ProxyFactory.createClass2(ProxyFactory.java:487)
+	at javassist.util.proxy.ProxyFactory.createClass1(ProxyFactory.java:423)
+	at javassist.util.proxy.ProxyFactory.createClass(ProxyFactory.java:395)
+	at org.hibernate.proxy.pojo.javassist.JavassistLazyInitializer.getProxyFactory(JavassistLazyInitializer.java:163)
+	... 97 more
+
